@@ -10,10 +10,12 @@ Alpine Linux Setup
 
 ## Auto Personalization
 * login as `root`
-* `apk add git`
+* `apk add git bash`
 * `git clone https://github.com/disabster/disabster-alpine`
 * `cd disabster-alpine`
-* `./setup.sh`
+* `bash -x ./step1.sh`
+* `bash -x ./step2.sh`
+* `bash -x ./step3.sh`
 
 ## Manual Personalization
 * login as `disabster`
