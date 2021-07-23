@@ -1,4 +1,4 @@
-# alpine-linux-setup (doesn't work, lol, will keep you updated)
+# alpine-linux-setup (WORKS NOW !!!)
 Alpine Linux Setup
 
 # Alpine Linux
